@@ -1,0 +1,11 @@
+/Users/michaelsolone/sdg/dot_net/week-9/ORM_Safari/bin/Debug/netcoreapp2.1/ORM_Safari.deps.json
+/Users/michaelsolone/sdg/dot_net/week-9/ORM_Safari/bin/Debug/netcoreapp2.1/ORM_Safari.runtimeconfig.json
+/Users/michaelsolone/sdg/dot_net/week-9/ORM_Safari/bin/Debug/netcoreapp2.1/ORM_Safari.runtimeconfig.dev.json
+/Users/michaelsolone/sdg/dot_net/week-9/ORM_Safari/bin/Debug/netcoreapp2.1/ORM_Safari.dll
+/Users/michaelsolone/sdg/dot_net/week-9/ORM_Safari/bin/Debug/netcoreapp2.1/ORM_Safari.pdb
+/Users/michaelsolone/sdg/dot_net/week-9/ORM_Safari/obj/Debug/netcoreapp2.1/ORM_Safari.csprojAssemblyReference.cache
+/Users/michaelsolone/sdg/dot_net/week-9/ORM_Safari/obj/Debug/netcoreapp2.1/ORM_Safari.csproj.CoreCompileInputs.cache
+/Users/michaelsolone/sdg/dot_net/week-9/ORM_Safari/obj/Debug/netcoreapp2.1/ORM_Safari.AssemblyInfoInputs.cache
+/Users/michaelsolone/sdg/dot_net/week-9/ORM_Safari/obj/Debug/netcoreapp2.1/ORM_Safari.AssemblyInfo.cs
+/Users/michaelsolone/sdg/dot_net/week-9/ORM_Safari/obj/Debug/netcoreapp2.1/ORM_Safari.dll
+/Users/michaelsolone/sdg/dot_net/week-9/ORM_Safari/obj/Debug/netcoreapp2.1/ORM_Safari.pdb
